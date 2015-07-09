@@ -112,3 +112,9 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+There are a total of 8 files :- 4 R files and 4 plot png files.
+plot1.R which creates the plot1.png
+plot2.R which creates the plot2.png
+plot3.R which creates the plot3.png
+plot4.R which creates the plot4.png
+
